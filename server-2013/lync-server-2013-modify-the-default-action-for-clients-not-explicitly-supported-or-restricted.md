@@ -61,7 +61,7 @@ A ação padrão a ser executada quando os usuários tentarem entrar utilizando 
     
         Set-CsClientVersionConfiguration -Identity "site:Redmond" -DefaultAction Allow
 
-Para obter detalhes, consulte o tópico de ajuda para o cmdlet [Set-CsClientVersionPolicy](set-csclientversionpolicy.md).
+Para obter detalhes, consulte o tópico de ajuda para o cmdlet [Set-CsClientVersionPolicy](https://docs.microsoft.com/en-us/powershell/module/skype/Set-CsClientVersionPolicy).
 
 ## Consulte Também
 
